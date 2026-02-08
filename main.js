@@ -1,7 +1,7 @@
 onload = () => {
   document.body.classList.remove("container");
 
-  const text = "May I have the privilege of being your suitor?🌷";
+  const text = "UR MOM!!!";
   const target = document.getElementById("typewriter");
   let index = 0;
 
