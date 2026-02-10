@@ -1579,7 +1579,7 @@ body {
 /*CY CODE: Ending Message */
 @import url('https://fonts.googleapis.com/css2?family=Germania+One&display=swap');
 *{
-  font-family: 'Germania One', system-ui;;
+  font-family: 'Germania One', system-ui;
 }
 .ending-text {
   position: fixed;
