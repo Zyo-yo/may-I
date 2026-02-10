@@ -1577,12 +1577,13 @@ body {
 
 
 /*CY CODE: Ending Message */
-@import url('https://fonts.googleapis.com/css2?family=Germania+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cookie&display=swap');
 *{
-  font-family: "Germania One", system-ui;
+  font-family: "Cookie", cursive;
   font-weight: 400;
   font-style: normal;
 }
+
 .ending-text {
   position: fixed;
   top: 6vh;               /* desktop position */
