@@ -1,7 +1,7 @@
 onload = () => {
   document.body.classList.remove("container");
 
-  const text = "I LOVE YOU AUBS. FOREVER AND ALWAYS 💕 -CY";
+  const text = "I will always love you, Aubs... 💕 - CY";
   const target = document.getElementById("typewriter");
   let index = 0;
 
